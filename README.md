@@ -69,4 +69,4 @@ DOM manipulation for time control
 
 Logic implementation for time calculation and laps
 
-Improved frontend development skills with real-time interactivity
+Improved frontend development skills with real-time interactivity.
